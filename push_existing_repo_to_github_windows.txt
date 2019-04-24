@@ -1,4 +1,9 @@
 steps to create existing repo to github
 1)create repository in git hub marked as public and initialize this repository with README as checked
 2)Next go to any location and clone the repo with "git clone https://github.com/goli-saiteja/gitbits.git" here my repy name is gitbits
-3)CD to the cloned repo and add all the project files in current folder
+3)CD to the cloned repo and add all the project files in current folder.
+4)git config user.email "youremail@email.com"
+5)git config user.name "your_git_username"
+6)git add --all
+7)git commit -m "initial commit"
+9)git push orign master
